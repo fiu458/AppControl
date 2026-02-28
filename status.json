@@ -1,7 +1,8 @@
 {
-  "online": true,
-  "message": "Program offline. Please wait.",
+  "online": false,
+  "message": "This app is no longer supported. We apologize for any inconvenience and thank you for your understanding.",
   "minVersion": "1.1.0",
   "latestVersion": "1.2.0",
   "updateUrl": "http://github.com/fiu458/AppControl/releases/download/v1.2.0/goodapp_update.zip"
 }
+
