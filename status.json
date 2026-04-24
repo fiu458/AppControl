@@ -1,8 +1,6 @@
 {
-  "online": true,
-  "message": "System OK",
-  "minVersion": "1.0.0",
-  "latestVersion": "1.1.0",
-  "updateUrl": "https://.../GoodApp-1.1.0.zip",
-  "updateType": "zip"
+  "online": false,
+  "message": "This app is no longer being maintained. We apologize for any inconvenience. We are working on a new version available at: https://fiu458.github.io/GoodApp/",
+  "minVersion": "1.1.0",
+  "latestVersion": "1.2.0",
 }
